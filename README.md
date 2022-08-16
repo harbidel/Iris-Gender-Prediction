@@ -5,9 +5,11 @@ Since we are working on an IRIS image classification problem, a total of 274 IRI
 
 # Our data structure is as follows:
 *	Input – 274
-  Train – 220
-  * Female – 100
-  * Male – 120
-  Test – 54
-  * Female – 24
-  * Maler – 30
+
+    Train – 220
+    * Female – 100
+    * Male – 120
+
+    Test – 54
+    * Female – 24
+    * Maler – 30
